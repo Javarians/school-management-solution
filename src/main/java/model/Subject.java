@@ -1,8 +1,16 @@
 package model;
+<<<<<<< HEAD
+=======
+
+>>>>>>> c989eb6 (added subject and student classes)
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
+<<<<<<< HEAD
+=======
+
+>>>>>>> c989eb6 (added subject and student classes)
 @Getter
 @Setter
 @RequiredArgsConstructor
