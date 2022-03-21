@@ -1,8 +1,11 @@
 package model;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> c989eb6 (added subject and student classes)
+=======
+>>>>>>> ed9c897 (finger crossed)
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
