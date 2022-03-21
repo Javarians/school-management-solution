@@ -1,5 +1,4 @@
 package model;
-<<<<<<< HEAD
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
@@ -13,8 +12,4 @@ public class Subject {
     double classwork;
     double homework;
     double examination;
-=======
-
-public class Subject {
->>>>>>> 30a67ac (added model)
 }
