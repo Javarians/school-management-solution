@@ -11,9 +11,12 @@ import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> c989eb6 (added subject and student classes)
+=======
+>>>>>>> 3eddab2 (finger crossed)
 @Getter
 @Setter
 @RequiredArgsConstructor
