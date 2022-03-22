@@ -1,5 +1,7 @@
 package model;
 
+import enums.Gender;
+
 import java.util.List;
 
 public class Person {
